@@ -2,7 +2,7 @@
 26.121.132.196
 
 # tutorial da silva
-Para baixar todos os mods de uma vez apena siga os passos a seguir:
+Para baixar todos os mods de algum modpack de uma vez apena siga os passos a seguir:
 
 vai na pasta
 
